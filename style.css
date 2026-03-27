@@ -64,6 +64,10 @@ h2 {
     margin-top: 100px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+#leave {
+    text-align: center;
+    color: white;
+}
 .header {
     text-align: center;
     padding: 40px;
@@ -201,4 +205,23 @@ nav ul li a {
 }
 nav ul li a:hover {
     color: cyan;
+}
+.social-icons {
+    margin-top: 20px;
+}
+.social-icons a {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    background: purple;
+    border-radius: 50%;
+    color: white;
+    margin: 0 10px;
+    font-size: 24px;
+    text-decoration: none;
+}
+.social-icons a:hover {
+    color: #00bcd4;
+    transition: 0.3s;
 }
