@@ -11,7 +11,7 @@ p {
 }
 h1 {
     text-align: center;
-    background: purple;
+    background: rgb(105, 128, 0);
     color: white;
     font-size: 16pt;
     padding: 10px;
@@ -40,7 +40,7 @@ h1 {
 }
 h2 {
     text-align: center;
-    background: purple;
+    background: rgb(105, 128, 0);
     color: white;
     font-size: 16pt;
     padding: 10px;
@@ -56,7 +56,7 @@ h2 {
 }
 #fb {
     text-align: center;
-    background: purple;
+    background: rgb(105, 128, 0);
     color: white;
     font-size: 16pt;
     padding: 10px;
@@ -128,7 +128,7 @@ h2 {
 }
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     margin-top: 200px;
     background: #0f172a;
     font-size: 16px;
@@ -214,7 +214,7 @@ nav ul li a:hover {
     width: 45px;
     height: 45px;
     line-height: 45px;
-    background: purple;
+    background: #0f172a;
     border-radius: 50%;
     color: white;
     margin: 0 10px;
